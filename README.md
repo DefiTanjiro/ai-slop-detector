@@ -14,7 +14,7 @@ Covers ~100 patterns across 20 categories: palette & background, typography, lay
 ## Install
 
 ```bash
-npx skills add <your-github-username>/ai-slop-detector
+npx skills add DefiTanjiro/ai-slop-detector
 ```
 
 Or point an agent at it directly without installing:
