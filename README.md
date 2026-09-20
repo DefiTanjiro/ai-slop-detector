@@ -20,7 +20,7 @@ npx skills add <your-github-username>/ai-slop-detector
 Or point an agent at it directly without installing:
 
 ```bash
-npx skills use <your-github-username>/ai-slop-detector | claude
+npx skills use DefiTanjiro/ai-slop-detector | claude
 ```
 
 ## Credit
