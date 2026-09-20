@@ -23,10 +23,6 @@ Or point an agent at it directly without installing:
 npx skills use DefiTanjiro/ai-slop-detector | claude
 ```
 
-## Credit
-
-The original 100-pattern list this skill is built on was compiled by **okaashish**. This repo restructures it into an installable, actionable skill with fixes for each pattern.
-
 ## License
 
 MIT
