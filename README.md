@@ -2,7 +2,7 @@
 
 A skill for Claude Code, Claude.ai, Cursor, and other [Agent Skills](https://agentskills.io)–compatible agents that catches "AI slop" — the generic visual, structural, and writing defaults that make websites, decks, UI, images, and copy read as templated AI output instead of something made for a specific product or brand.
 
-[![skills.sh](https://skills.sh/b/<your-github-username>/ai-slop-detector)](https://skills.sh/<your-github-username>/ai-slop-detector)
+[![skills.sh](https://skills.sh/b/DefiTanjiro/ai-slop-detector)](https://skills.sh/DefiTanjiro/ai-slop-detector)
 
 ## What it does
 
