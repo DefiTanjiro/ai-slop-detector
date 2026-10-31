@@ -84,7 +84,7 @@ candidates; the agent reads each in context before changing anything.
 
 ## Credits
 
-Built on the work of okaashish (the original 100 patterns), Damir Sokolovsky's
+Damir Sokolovsky's
 [unslop](https://github.com/heydamir/unslop), Leon Lin's
 [taste-skill](https://github.com/Leonxlnx/taste-skill), Anthropic's frontend-design skill,
 Vercel's Web Interface Guidelines, Emil Kowalski, kubre, Jakub Krehel and EasyUI. Details and
